@@ -1,0 +1,1 @@
+<view class="nav-item data-v-026464b0" bindtap="{{c}}"><view class="nav-icon-wrap data-v-026464b0"><text class="nav-emoji data-v-026464b0">{{a}}</text></view><text class="nav-text data-v-026464b0">{{b}}</text></view>

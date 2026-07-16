@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/index/index",
+    "pages/new/new",
+    "pages/mine/mine",
+    "pages/wiki/wiki",
+    "pages/search/search",
+    "pages/category/category",
+    "pages/detail/detail",
+    "pages/login/login",
+    "pages/userlist/userlist"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "我的",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#00aa00",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "safeAreaInsetBottom": true,
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/home_HL.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/new/new",
+        "iconPath": "static/new.png",
+        "selectedIconPath": "static/new_HL.png",
+        "text": "通知"
+      },
+      {
+        "pagePath": "pages/wiki/wiki",
+        "iconPath": "static/wiki.png",
+        "selectedIconPath": "static/wiki_HL.png",
+        "text": "维基"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "/static/mine.png",
+        "selectedIconPath": "/static/mine_HL.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {}
+}

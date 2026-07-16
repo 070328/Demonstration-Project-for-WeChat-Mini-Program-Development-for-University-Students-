@@ -1,0 +1,1 @@
+<view class="section-header data-v-ab87f8cd"><view class="title-box data-v-ab87f8cd"><text class="title-icon data-v-ab87f8cd">{{a}}</text><text class="title-text data-v-ab87f8cd">{{b}}</text></view><text class="more data-v-ab87f8cd" bindtap="{{c}}">更多 &gt;</text></view>

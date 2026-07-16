@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "专区",
+  "usingComponents": {
+    "post-card": "../../components/PostCard/PostCard"
+  }
+}

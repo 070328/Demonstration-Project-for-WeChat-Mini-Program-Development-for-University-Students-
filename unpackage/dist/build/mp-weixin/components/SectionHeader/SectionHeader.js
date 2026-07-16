@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),t={props:{icon:String,title:String},methods:{handleMoreClick(){this.$emit("more-click",this.title)}}};const o=e._export_sfc(t,[["render",function(t,o,c,i,n,r){return{a:e.t(c.icon),b:e.t(c.title),c:e.o(((...e)=>r.handleMoreClick&&r.handleMoreClick(...e)),"04")}}],["__scopeId","data-v-ab87f8cd"]]);wx.createComponent(o);

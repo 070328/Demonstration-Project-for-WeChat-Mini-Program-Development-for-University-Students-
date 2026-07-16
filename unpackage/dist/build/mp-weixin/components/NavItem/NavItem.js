@@ -1,0 +1,1 @@
+"use strict";const t=require("../../common/vendor.js"),e={props:{text:String,emoji:String},methods:{handleClick(){this.$emit("click",this.text)}}};const n=t._export_sfc(e,[["render",function(e,n,o,c,i,r){return{a:t.t(o.emoji),b:t.t(o.text),c:t.o(((...t)=>r.handleClick&&r.handleClick(...t)),"df")}}],["__scopeId","data-v-026464b0"]]);wx.createComponent(n);
